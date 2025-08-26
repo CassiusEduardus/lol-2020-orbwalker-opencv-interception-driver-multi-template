@@ -1,0 +1,22 @@
+# Official File Set (20)
+
+- core/main.cpp — sha256:b069159e
+- core/Globais.cpp — sha256:1651720a
+- core/Estruturas.h — sha256:64576705
+- core/GetCastWalkSleep.cpp — sha256:d536b067
+- core/GetCastWalkSleep.h — sha256:1eccbb83
+- core/GetScreenSize.cpp — sha256:76dd81b1
+- core/GetScreenSize.h — sha256:73b05a9c
+- capture/ScreenCaptureFast.cpp — sha256:a46f4bf7
+- capture/ScreenCaptureFast.h — sha256:74096970
+- vision/GetClosestEnemy.cpp — sha256:246163c3
+- vision/GetClosestEnemy.h — sha256:5656014b
+- vision/GetStatsInRealtime.cpp — sha256:a865c77e
+- vision/GetStatsInRealtime.h — sha256:5cbc1a8c
+- vision/avir.h — sha256:65dbd979
+- input/GetMousePosInRealTime.cpp — sha256:0a77b514
+- input/GetMousePosInRealTime.h — sha256:2ece5ddb
+- input/GetSpaceState.cpp — sha256:ef6c1fdb
+- input/GetSpaceState.h — sha256:63963f3e
+- input/interception.c — sha256:e89b6631
+- input/interception.h — sha256:763b15dc
