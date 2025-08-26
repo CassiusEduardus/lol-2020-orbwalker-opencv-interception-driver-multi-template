@@ -102,3 +102,5 @@ These are **not** part of the repository and are referenced only to document how
 
 ## License
 No open-source license is granted for this repository by default (archival release).
+
+![Alt](https://repobeats.axiom.co/api/embed/e3012718351228252e51df2ae3db72cfd51caf28.svg "Repobeats analytics image")
