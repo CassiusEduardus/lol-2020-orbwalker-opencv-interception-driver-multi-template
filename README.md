@@ -9,7 +9,7 @@ There is **no memory reading/writing** of the game. The code is provided **as-is
 > **No build or usage support.** This code is not a product and should not be used to target live services. It exists to document historical techniques and architecture.
 
 ## Language & naming note
-Some variable names, comments, and messages remain in **Portuguese** on purpose to keep the code **as‑it‑is** and historically faithful. Only documentation was standardized to US English.
+Some variable names, comments, and messages remain in **Portuguese** on purpose to keep the code **as-it-is** and historically faithful. Only documentation was standardized to US English.
 
 ## High-level pipeline
 ```

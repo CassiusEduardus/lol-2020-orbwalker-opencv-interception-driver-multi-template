@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.opendb
+
+# Build dirs
+[Bb]uild*/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Intermediates / artifacts
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.idb
+*.exp
+*.lastbuildstate
+*.pch
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.app
+*.out
+
+# Others
+*.cache
+*.tmp
