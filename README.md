@@ -101,4 +101,4 @@ These are **not** part of the repository and are referenced only to document how
 - No CI, no issue support, no feature requests.
 
 ## License
-No open-source license is granted for this repository by default (archival release). If you intend to add a license later, ensure it does not conflict with third-party notices and that it preserves the **educational-only** intent.
+No open-source license is granted for this repository by default (archival release).
